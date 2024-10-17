@@ -1,0 +1,14 @@
+{
+  "name": "my-nodejs-service",
+  "version": "1.0.0",
+  "description": "hola",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "tovar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
